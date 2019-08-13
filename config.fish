@@ -6,3 +6,5 @@ function cd
     ls
 end
 
+
+source /home/efun/.config/broot/launcher/fish/br
