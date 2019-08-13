@@ -6,5 +6,8 @@ function cd
     ls
 end
 
-
 source /home/efun/.config/broot/launcher/fish/br
+
+function fish_greeting
+    br
+end
